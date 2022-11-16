@@ -1,1 +1,1 @@
-This is the simple shell project.
+This is the ALX simple shell project.
